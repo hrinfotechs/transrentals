@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1009983404816",
+    "project_id": "transrentals-29042",
+    "storage_bucket": "transrentals-29042.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009983404816:android:03758cea97244851df8395",
+        "android_client_info": {
+          "package_name": "com.transrentals.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1009983404816-tka3dl9l94nl936p8nmijn68qntdrcjh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBftNxJ1cb5YFar4hN8W1U0qXUqqE2va3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1009983404816-tka3dl9l94nl936p8nmijn68qntdrcjh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1009983404816-8a3kk7agvqk872dvldovsflom1pken59.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.baseProjectGetx"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <defs>
+    <clipPath id="clip-Logo_app">
+      <rect width="1024" height="1024"/>
+    </clipPath>
+  </defs>
+  <g id="Logo_app" data-name="Logo app" clip-path="url(#clip-Logo_app)">
+    <g id="Group_1380" data-name="Group 1380" transform="translate(50.395 57.91)">
+      <g id="Group_1377" data-name="Group 1377" transform="translate(144.972 0.007)">
+        <path id="Path_363" data-name="Path 363" d="M4999.22,1134.615v611.521a157.617,157.617,0,0,1-158.31,156.9H4794.5V1340.13a21.823,21.823,0,0,0-20.821-20.5,5.871,5.871,0,0,0-1.085-.072,4.391,4.391,0,0,0-1,.072H4221.513v-29.8a177.57,177.57,0,0,1,178.451-176.7l577.441,0a21.646,21.646,0,0,1,21.817,21.489Z" transform="translate(-4221.513 -1113.12)" fill="#2ccc70"/>
+      </g>
+      <g id="Group_1378" data-name="Group 1378" transform="translate(-0.002 315.628)">
+        <path id="Path_364" data-name="Path 364" d="M4816.246,1161.221v414.6A157.149,157.149,0,0,1,4658.3,1732.262h-45.5V1362.517a21.754,21.754,0,0,0-20.619-21.57,8.412,8.412,0,0,0-1.216-.058,7.284,7.284,0,0,0-1.062.06H4209.322V1314.49a175.7,175.7,0,0,1,176.605-174.839H4795.3A21.825,21.825,0,0,1,4816.246,1161.221Z" transform="translate(-4209.322 -1139.649)" fill="#2ccc70"/>
+      </g>
+      <g id="Group_1379" data-name="Group 1379" transform="translate(380.633 516.802)">
+        <path id="Path_365" data-name="Path 365" d="M4243.2,1156.61h-1.888A7.608,7.608,0,0,1,4243.2,1156.61Z" transform="translate(-4241.314 -1156.551)" fill="#2ccc70"/>
+      </g>
+    </g>
+  </g>
+</svg>
